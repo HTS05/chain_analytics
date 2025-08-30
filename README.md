@@ -5,7 +5,8 @@ This repository contains my Jupyter Notebook from the Chain Analytics Masterclas
 It covers supply chain analytics concepts and Python-based analysis.  
 
 ## Files
-- `Chain Analytics.ipynb` → (Chain%20Analytics.ipynb)
+[Chain Analytics Notebook](./Chain%20Analytics.ipynb)
+
 
 ## Certificate
 [Certificate](Heet%20Singha_Chain_analytics_Certificate.pdf)
