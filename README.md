@@ -8,4 +8,4 @@ It covers supply chain analytics concepts and Python-based analysis.
 - `Chain Analytics.ipynb` → (Chain%20Analytics.ipynb)
 
 ## Certificate
-![Certificate](Heet Singha_Chain_analytics_Certificate.pdf)
+[Certificate](Heet Singha_Chain_analytics_Certificate.pdf)
